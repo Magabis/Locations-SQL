@@ -1,5 +1,5 @@
 /* Create sentence */
-/* dep_ucreacion and dep_fcreacion refers to User of creation and Date of creation respectively */
+/* dep_ucreacion and dep_fcreacion refers to User and Date of creation respectively */
 
 create table loc_departamentos
 (
